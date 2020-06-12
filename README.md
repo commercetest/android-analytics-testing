@@ -1,4 +1,4 @@
-# android-analytics-testing
+# Android analytics testing
 Various notes to help test what various analytics providers report.
 
 Providers include Google Play with the bundled Android Vitals, crash analytics, mobile analytics, and heatmapping offerings.
